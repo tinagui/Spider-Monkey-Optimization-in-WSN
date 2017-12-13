@@ -5,7 +5,7 @@ Source code and algorithm description for Spider Monkey Optimization algorithm [
 [2]	T. Gui, C. Ma, F. Wang, J. Li and D. E. Wilkins, "A novel cluster-based routing protocol wireless sensor networks using Spider Monkey Optimization." Industrial Electronics Society, IECON 2016-42nd Annual Conference of the IEEE. IEEE, 2016.
 
 
-## Spider Monkey Optimization Algorithm Description:
+### Spider Monkey Optimization Algorithm Description:
 ```
  Initialize each Spider Monkey (node) with K random cluster centers (heads)
  While (Termination criteria is not satisfied) do
