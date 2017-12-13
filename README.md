@@ -8,12 +8,12 @@ Source code and algorithm description for Spider Monkey Optimization algorithm [
 ### Spider Monkey Optimization Algorithm Description:
 ```
  Initialize each Spider Monkey (SM) with K random cluster centers 
- While (Termination criteria is not satisfied) do
+ While (termination criteria is not satisfied) do
 	For all SMi do
 		Calculate Euclidean distance of SMi with all cluster centroids 
 		Assign SMi to the cluster that have nearest centroid
 	End for
-	Calculate the fitness (the distance of each node from the sink)
+	Calculate the fitness 
 	Find the local best and global best
 	Update the cluster centroids according to self-experience, local and global experience
  End while
