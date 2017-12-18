@@ -20,7 +20,7 @@ Source code and algorithm description for SMO algorithm in Wireless Sensor Netwo
 
 
 ## Other Monkey-Based Optimization Algorithms in WSN [3-4]
-**Rhesus Macaque Optimization Algorithm (RMO) [3]**
+### Rhesus Macaque Optimization Algorithm (RMO) [3]
 ```
 Set-up phase:
 Step 1. Construction of sensor network:
@@ -31,7 +31,7 @@ Steady state:
 Step 5. Randomly choose nodes for communication 
 ```
 
-**Niching Monkey Optimization Algorithm (NMA) [4]**
+### Niching Monkey Optimization Algorithm (NMA) [4]
 ```
 Step 1. Compute mode shapes 
 Step 2. Dual-structure coding
@@ -54,11 +54,11 @@ Step 14. Terminate when criterion is satisfied
 
 
 ## Baseline Routing Protocols [5-6]
-*Low-Energy Adaptive Clustering Hierarchy (LEACH) [5]* <br>
+### Low-Energy Adaptive Clustering Hierarchy (LEACH) [5] <br>
 [MATLAB Package 1](https://www.mathworks.com/matlabcentral/fileexchange/48162-leach--low-energy-adaptive-clustering-hierarchy-protocol-) <br>
 [MATLAB Package 2](https://www.mathworks.com/matlabcentral/fileexchange/40115-low-energy-adaptive-clustering-hierarchy-protocol--leach-) <br>
 
-**Energy Aware Multi-hop Multi-path Hierarchical (EAMMH) [6]** <br>
+### Energy Aware Multi-hop Multi-path Hierarchical (EAMMH) [6] <br>
 
 
 
