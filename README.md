@@ -61,6 +61,15 @@ Step 14. Terminate when criterion is satisfied
 
 
 > ## Reference
+.markdown-preview.markdown-preview {
+ &, h4, h5, h6 {
+   font-size: font-size;
+  }
+
+  h1 { font-size: font-size; }
+  h2 { font-size: font-size; }
+  h3 { font-size: font-size; }
+}
 [1]	T. Gui, C. Ma, F. Wang and D. E. Wilkins, "Survey on swarm intelligence based routing protocols for wireless sensor networks: An extensive study." Industrial Technology (ICIT), 2016 IEEE International Conference on. IEEE, 2016. <br>
 [2]	T. Gui, C. Ma, F. Wang, J. Li and D. E. Wilkins, "A novel cluster-based routing protocol wireless sensor networks using Spider Monkey Optimization." Industrial Electronics Society, IECON 2016-42nd Annual Conference of the IEEE. IEEE, 2016.
 [3]	S. Kumar, and S. M. Kusuma. "Clustering protocol for wireless sensor networks based on Rhesus Macaque (Macaca mulatta) animal's social behavior." International Journal of Computer Applications 87.8 (2014) <br>
