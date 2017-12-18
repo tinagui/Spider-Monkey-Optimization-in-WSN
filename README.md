@@ -54,7 +54,7 @@ Step 14. Terminate when criterion is satisfied
 
 
 ## Baseline Routing Protocols [5-6]
-<strong>Low-Energy Adaptive Clustering Hierarchy (LEACH) [5] <br>
+*Low-Energy Adaptive Clustering Hierarchy (LEACH) [5]* <br>
 [MATLAB Package 1](https://www.mathworks.com/matlabcentral/fileexchange/48162-leach--low-energy-adaptive-clustering-hierarchy-protocol-) <br>
 [MATLAB Package 2](https://www.mathworks.com/matlabcentral/fileexchange/40115-low-energy-adaptive-clustering-hierarchy-protocol--leach-) <br>
 
