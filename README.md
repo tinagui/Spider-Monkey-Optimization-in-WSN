@@ -20,12 +20,12 @@ Source code and algorithm description for SMO algorithm in Wireless Sensor Netwo
 > ## Other Monkey-Based Optimization Algorithms in WSN [3-4]
 ### Rhesus Macaque Optimization Algorithm (RMO) [3]
 ```
-*Set-up phase:
+Set-up phase:
 Step 1. Construction of sensor network:
 Step 2. Run the LEACH model once
 Step 3. Find redundant cluster heads
 Step 4. Attach redundant cluster heads to the nearest cluster
-*Steady state:
+Steady state:
 Step 5. Randomly choose nodes for communication 
 ```
 
