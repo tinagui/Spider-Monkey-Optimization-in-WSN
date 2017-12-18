@@ -20,7 +20,7 @@ Source code and algorithm description for SMO algorithm in Wireless Sensor Netwo
 
 
 ## Other Monkey-Based Optimization Algorithms in WSN [3-4]
-Rhesus Macaque Optimization Algorithm (RMO)[3]
+Rhesus Macaque Optimization Algorithm (RMO) [3]
 ```
 Set-up phase:
 Step 1. Construction of sensor network:
@@ -31,7 +31,7 @@ Steady state:
 Step 5. Randomly choose nodes for communication 
 ```
 
-Niching Monkey Optimization Algorithm (NMA)[4]
+Niching Monkey Optimization Algorithm (NMA) [4]
 ```
 Step 1. Compute mode shapes 
 Step 2. Dual-structure coding
