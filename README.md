@@ -1,4 +1,4 @@
-# Spider Monkey Optimization (SMO)
+# ❤ Spider Monkey Optimization (SMO) ❤
 Source code and algorithm description for SMO algorithm in Wireless Sensor Networks (WSN)
 
 ## Cluster-Based Spider Monkey Optimization Protocol (SMO-C) [1-2]
@@ -49,7 +49,7 @@ Step 13. Somersault process
 Step 14. Terminate when criterion is satisfied
 ```
 
-[3]	S. Kumar, and S. M. Kusuma. "Clustering protocol for wireless sensor networks based on Rhesus Macaque (Macaca mulatta) animal's social behavior." International Journal of Computer Applications 87.8 (2014)
+[3]	S. Kumar, and S. M. Kusuma. "Clustering protocol for wireless sensor networks based on Rhesus Macaque (Macaca mulatta) animal's social behavior." International Journal of Computer Applications 87.8 (2014) <br>
 [4]	T. Yi, et al. "Sensor placement optimization in structural health monitoring using niching monkey algorithm." International Journal of Structural Stability and Dynamics 14.05 (2014): 1440012. 
 
 
