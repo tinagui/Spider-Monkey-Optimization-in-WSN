@@ -63,7 +63,7 @@ Step 14. Terminate when criterion is satisfied
 > ## Reference
 .markdown-preview.markdown-preview {
  &, h4, h5, h6 {
-   font-size: font-size;
+   font-size: 7;
   }
 
   h1 { font-size: font-size; }
