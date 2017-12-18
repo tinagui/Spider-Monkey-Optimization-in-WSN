@@ -1,4 +1,4 @@
-# ❀ Spider Monkey Optimization (SMO) ❀
+# ❀ SPIDER MONKEY OPTIMIZATION (SMO) ❀
 Source code and algorithm description for SMO algorithm in Wireless Sensor Networks (WSN)
 
 > ## Cluster-Based Spider Monkey Optimization Protocol (SMO-C) [1-2]
@@ -14,9 +14,6 @@ Source code and algorithm description for SMO algorithm in Wireless Sensor Netwo
 	Update the cluster centroids according to self-experience, local and global experience
  End while
 ```
-
-[1]	T. Gui, C. Ma, F. Wang and D. E. Wilkins, "Survey on swarm intelligence based routing protocols for wireless sensor networks: An extensive study." Industrial Technology (ICIT), 2016 IEEE International Conference on. IEEE, 2016. <br>
-[2]	T. Gui, C. Ma, F. Wang, J. Li and D. E. Wilkins, "A novel cluster-based routing protocol wireless sensor networks using Spider Monkey Optimization." Industrial Electronics Society, IECON 2016-42nd Annual Conference of the IEEE. IEEE, 2016.
 <br>
 <br>
 
@@ -49,9 +46,6 @@ Step 12. Watch jump process
 Step 13. Somersault process
 Step 14. Terminate when criterion is satisfied
 ```
-
-[3]	S. Kumar, and S. M. Kusuma. "Clustering protocol for wireless sensor networks based on Rhesus Macaque (Macaca mulatta) animal's social behavior." International Journal of Computer Applications 87.8 (2014) <br>
-[4]	T. Yi, et al. "Sensor placement optimization in structural health monitoring using niching monkey algorithm." International Journal of Structural Stability and Dynamics 14.05 (2014).
 <br>
 <br>
 
@@ -62,8 +56,15 @@ Step 14. Terminate when criterion is satisfied
 
 ### Energy Aware Multi-hop Multi-path Hierarchical (EAMMH) [6] <br>
 
+<br>
+<br>
 
 
+> ## Reference
+[1]	T. Gui, C. Ma, F. Wang and D. E. Wilkins, "Survey on swarm intelligence based routing protocols for wireless sensor networks: An extensive study." Industrial Technology (ICIT), 2016 IEEE International Conference on. IEEE, 2016. <br>
+[2]	T. Gui, C. Ma, F. Wang, J. Li and D. E. Wilkins, "A novel cluster-based routing protocol wireless sensor networks using Spider Monkey Optimization." Industrial Electronics Society, IECON 2016-42nd Annual Conference of the IEEE. IEEE, 2016.
+[3]	S. Kumar, and S. M. Kusuma. "Clustering protocol for wireless sensor networks based on Rhesus Macaque (Macaca mulatta) animal's social behavior." International Journal of Computer Applications 87.8 (2014) <br>
+[4]	T. Yi, et al. "Sensor placement optimization in structural health monitoring using niching monkey algorithm." International Journal of Structural Stability and Dynamics 14.05 (2014).
 [5]	W. Heinzelman, Chandrakasan, A., and Balakrishnan, H., "Energy-Efficient Communication Protocols for Wireless Microsensor Networks", Proceedings of the 33rd Hawaaian International Conference on Systems Science (HICSS), January 2000. <br>
 [6]	M.R. Mundada, V CyrilRaj and T Bhuvaneswari “Energy Aware Multi-Hop Multi-Path Hierarchical (EAMMH) Routing Protocol for Wireless Sensor Networks” European Journal Of Scientific Research ISSN 1450-216X Vol. 88 No 4 October, 2012.
 <br>
