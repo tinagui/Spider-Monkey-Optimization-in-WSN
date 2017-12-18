@@ -1,5 +1,7 @@
 # Spider Monkey Optimization (SMO)
-Source code and algorithm description for Spider Monkey Optimization algorithm [1-2]. 
+Source code and algorithm description for Spider Monkey Optimization algorithm in Wireless Sensor Networks[1-2]. 
+
+## Cluster-Based Spider Monkey Optimization Protocol (SMO-C)
 ```
  Initialize each Spider Monkey (SM) with K random cluster centers 
  While (termination criteria is not satisfied) do
