@@ -70,4 +70,3 @@ Step 14. Terminate when criterion is satisfied
 [6] M.R. Mundada, V CyrilRaj and T Bhuvaneswari “Energy Aware Multi-Hop Multi-Path Hierarchical (EAMMH) Routing Protocol for Wireless Sensor Networks” European Journal Of Scientific Research ISSN 1450-216X Vol. 88 No 4 October, 2012.
 ```
 <br>
-<br>
