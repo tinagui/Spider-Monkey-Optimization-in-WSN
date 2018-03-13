@@ -17,6 +17,25 @@ Source code and algorithm description for SMO algorithm in Wireless Sensor Netwo
 <br>
 <br>
 
+
+> ## Spider Monkey Optimziation Based Cluster Head Selection Scheme (SMOCH) 
+CH_prob_i = [0.9 * (fitness_i/fitness_max) + 0.1] * P    (1) <br>
+```
+ Initialize each Spider Monkey (SM) with K random cluster centers 
+ While (max_iteration is not reached) do
+	For all SMi do
+		Calculate Euclidean distance of SMi with all cluster centroids 
+		Assign SMi to the cluster that have nearest centroid
+	End for
+	Calculate the fitness and CHprobi according to Eq. (1)
+	if U(0, 1) ≥ CH_prob_i, then
+		Update the cluster centroids based on local best
+ End while
+```
+<br>
+<br>
+
+
 > ## Other Monkey-Based Optimization Algorithms in WSN [3-4]
 ### Rhesus Macaque Optimization Algorithm (RMO) [3]
 ```
